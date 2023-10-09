@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "دون عنوان (1280 x 768 بيكسل).png",
+      "idiom" : "tv",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "دون عنوان (1280 x 768 بيكسل) 1.png",
+      "idiom" : "tv",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
